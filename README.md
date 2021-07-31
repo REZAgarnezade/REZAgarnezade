@@ -1,6 +1,6 @@
 hi guys !
 Im hamid reza #iranian_geek :) 
-In solving Python learning, JavaScript and some frameworks .
+Im solving Python learning, JavaScript and some frameworks .
 I'd be happy if we could help each other. 
 twitter : @2lacang
 
